@@ -17,3 +17,40 @@ A lightweight cross-platform **Mini Firewall** written in C++ that lets you bloc
 
 **When you run the executable:**
 
+=== Mini Firewall ===
+
+Block IP
+
+Block Port
+
+Allow All (Reset)
+
+Exit
+Enter choice: 1
+Enter IP to block: 192.168.1.100
+Blocked IP: 192.168.1.100
+
+=== Mini Firewall ===
+
+Block IP
+
+Block Port
+
+Allow All (Reset)
+
+Exit
+Enter choice: 2
+Enter Port to block: 8080
+Blocked Port: 8080
+
+=== Mini Firewall ===
+
+Block IP
+
+Block Port
+
+Allow All (Reset)
+
+Exit
+Enter choice: 3
+Allowed all traffic (Reset rules)
