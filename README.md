@@ -53,7 +53,7 @@ Allowed all traffic (Reset rules)
 ---
 ## How to Compile & Run
 
-### Linux/macOS
+### Linux/macOS/Windows
 ```bash
 g++ firewall.cpp -o firewall
 sudo ./firewall
